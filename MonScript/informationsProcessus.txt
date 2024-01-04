@@ -1,0 +1,6 @@
+Informations sur le processus:
+                      - Nombre de codes QR générés: 2
+                      - Taille totale des codes QR générés: 23203 octets
+                      - Nom du fichier d'origine: lil
+                      - Taille du fichier d'origine: 1669 octets
+                      - Durée d'exécution: 20.32 secondes

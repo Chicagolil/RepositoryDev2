@@ -1,0 +1,6 @@
+Informations sur le processus:
+  - Nombre de codes QR générés: 232
+  - Taille totale des codes QR générés: 1281468 octets
+  - Nom du fichier d'origine: rgee_2022-2023
+  - Taille du fichier d'origine: 2202507 octets
+  - Durée d'exécution: 38.11 secondes
